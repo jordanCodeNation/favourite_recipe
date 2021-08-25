@@ -1,0 +1,25 @@
+* {
+    background-color: lightsteelblue;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1572756317709-fe9c15ced298?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1047&q=80);
+}
+
+h1 {
+    font-family: cursive;
+    color: slateblue;
+    background-color: lightsteelblue;
+}
+
+img {
+    width: 30%;
+    border-radius: 50%;
+    
+}
+
+.normal {
+    text-align: left;
+    background-color: lightsteelblue;
+}
